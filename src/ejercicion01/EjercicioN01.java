@@ -47,7 +47,7 @@ public class EjercicioN01 {
      */
     private static void imprimirNombre(){
         // Comando para imprimir en consola
-        System.out.println("Mi nombre es Jenny Paola");
+        System.out.println("Mi nombre es Jenny Paola Valencia Blandón");
         
     }
     private static double sumarNumeros(double numeroUno, double numeroDos){

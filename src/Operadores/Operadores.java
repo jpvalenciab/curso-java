@@ -3,14 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Automotores;
+package Operadores;
 
 /**
  *
  * @author s109e4
  */
-public class Camion {
-    private String color;
-    
+public class Operadores {
     
 }
